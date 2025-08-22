@@ -1,0 +1,11 @@
+# Ignoruj foldery
+/Assets/
+/Config/
+/Files/
+/PSAppDeployToolkit/
+/PSAppDeployToolkit.Extensions/
+/Strings/
+
+# Ignoruj pliki
+/COPYING.Lesser
+/Invoke-AppDeployToolkit.exe
